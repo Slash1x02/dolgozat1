@@ -1,0 +1,10 @@
+body {background-color: gray;}
+
+p {
+    line-height: 40px;
+  }
+
+ul {
+    color: #ffffff;
+  padding: 20px;
+}
